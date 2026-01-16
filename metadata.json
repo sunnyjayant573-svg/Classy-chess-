@@ -1,0 +1,5 @@
+{
+  "name": "Classy chess",
+  "description": "A professional-grade chess application featuring a sleek dark UI, move history, captured piece tracking, and an advanced AI opponent powered by Google Gemini.",
+  "requestFramePermissions": []
+}
